@@ -1,0 +1,4 @@
+                  {title: 'Barcode', data: "cbarcode", "render": function (data) {
+                          return '<img src="data:image/png;base64,' + data + '"/>';
+                      }, width:'300px'
+                  },
